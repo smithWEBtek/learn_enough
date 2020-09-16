@@ -1,0 +1,4 @@
+^A goes to beginning of the line.
+^E goes to the end of the line.
+^U Deletes to the beginning of the line
+This is a new file.
